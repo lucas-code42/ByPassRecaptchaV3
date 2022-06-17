@@ -4,7 +4,7 @@ Essse projeto surgiu no desenvolvimento de RPA na empresa Qyon.
 
 ## Avisos:
 Este código se manterá funcional apenas enquanto o site IBM Watson estiver dispónível.
-Caso o site para de forncecer o seu serviço busque uma solução alternativa para Speetch to Text.
+Caso o site parar de forncecer o seu serviço busque uma solução alternativa para Speetch to Text.
 
 ----
 
